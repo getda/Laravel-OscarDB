@@ -1,5 +1,5 @@
 {
-  "name": "microestc/oscardb",
+  "name": "getda/oscardb",
   "description": "OscarDB driver for Laravel",
   "keywords": ["oscar", "laravel", "laravel 8", "pdo_aci", "aci", "oscardb", "microestc", "shentong"],
   "license": "MIT",
