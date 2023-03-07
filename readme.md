@@ -16,7 +16,7 @@ _NOTE: This package has not been tested in PHP 8._
 With [Composer](https://getcomposer.org):
 
 ```sh
-composer require microestc/oscardb
+composer require getda/oscardb
 ```
 
 During this command, Laravel's "Auto-Discovery" feature should automatically register OscarDB's service
@@ -69,7 +69,7 @@ root@deb10:~/works/Laravel-OscarDB#
 
 ```
     "require": {
-        "microestc/oscardb": "*"
+        "getda/oscardb": "*"
     },
     "repositories": [
         {
